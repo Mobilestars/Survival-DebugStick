@@ -1,0 +1,10 @@
+
+name: SurvivalDebugStick
+version: '1.0.0'
+main: de.scholle.survivalDebugStick.SurvivalDebugStick
+api-version: '1.18'
+prefix: SDebugStick
+load: STARTUP
+authors: [ Mobilestars ]
+description: Survival Debug Stick Plugin
+website: https://modrinth.com/project/survival-debugstick

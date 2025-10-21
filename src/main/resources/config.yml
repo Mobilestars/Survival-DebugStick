@@ -1,0 +1,40 @@
+Interaction_cancellation_messages:
+  enable: true
+  actionbar: true
+  messageBlock: "You cannot interact with this block"
+  messageState: "You cannot interact with this state"
+
+Prevent_water_in_world:
+  - "world_nether"
+
+Debug_stick_craft:
+  enabled: true
+  shape:
+    line1: "N"
+    line2: "S"
+    line3: "S"
+  ingredient:
+    N: "NETHER_STAR"
+    S: "STICK"
+
+Blacklist_block:
+  - bee_nest
+  - beehive
+  - cake
+  - composter
+  - respawn_anchor
+  - end_portal_frame
+  - turtle_egg
+  - trial_spawner
+  - vault
+  - sculk_shrieker
+  - sea_pickle
+  - grass_block
+  - water_cauldron
+
+Blacklist_tag_block:
+  - candles
+  - crops
+  - doors
+  - slabs
+  - tall_flowers
